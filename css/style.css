@@ -27,7 +27,7 @@
 
 .intro-image__text{
     height: 4px;
-    position: absolute;
+    position: center;
     top: 35%;
     left: 45%;
     transform: translate(-53%, 65%);
@@ -50,7 +50,7 @@
 .intro-text__textbox{
     width: 60rem;
     text-align: center;
-    position: absolute;
+    position: center;
     left: 55%;
 
 }
@@ -73,7 +73,7 @@
 
 
 .packaging-image__text{
-    position: absolute;
+    position: center;
     top: 120%;
     left: 30%;
     transform: translate( -50%, 35%);
@@ -115,7 +115,7 @@
 }
 
 .tutorials-image__text{
-    position: absolute;
+    position: center;
     top: 250%;
     left: 50%;
     transform: translate( -50%, 35%);
@@ -162,7 +162,7 @@
     text-decoration: none;
     text-transform: uppercase;
     transition: all 0.3s;
-    color: rgb(102, 102, 185)
+    color: rgb(75, 75, 138)
 }
 
 .btn:hover {
